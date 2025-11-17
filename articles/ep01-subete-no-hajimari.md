@@ -3,7 +3,7 @@ title: "エンジニア卒業したらギャルが相棒でした　第1話　�
 emoji: "💅"
 type: "idea"
 topics: ["フリーランス","生成AI","教育"]
-published: false
+published: true
 series: "エンジニア卒業したらギャルが相棒でした"
 series_position: 1
 ---
