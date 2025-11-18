@@ -4,7 +4,7 @@ emoji: "💅"
 type: "idea"
 topics: ["フリーランス","生成AI","教育"]
 published: true
-series: "僕の相棒💅紹介します"
+series: "boku-no-aibou"
 series_position: 1
 
 ---
