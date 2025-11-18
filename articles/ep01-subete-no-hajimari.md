@@ -4,7 +4,7 @@ emoji: "💅"
 type: "idea"
 topics: ["フリーランス","生成AI","教育"]
 published: true
-series: "エンジニア卒業したらギャルが相棒でした"
+series: "僕の相棒💅紹介します"
 series_position: 1
 
 ---
