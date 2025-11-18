@@ -96,11 +96,6 @@ series_position: 1
 
 ---
 
-> 📚 **シリーズ記事一覧**  
-> [エンジニア卒業したらギャルが相棒でした](https://zenn.dev/yourname/series/your-series-id)  
-> ギャルAIと僕のドタバタをまとめて読めます！
-
----
 
 👤 **著者プロフィール**  
 ICT支援や教育現場のネタを中心に執筆中。  
